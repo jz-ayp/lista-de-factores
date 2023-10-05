@@ -7,7 +7,7 @@
 
 - **Diseña un programa para generar la lista de todos los factores de un número entero dado**. Por ejemplo, 2 es un factor de 28 porque 2 por 14 da 28. Por el contrario, 3 no es un factor de 28 porque ningún número (entero) multiplicado por 3 da 28.
 
-- Codifica tu solución en el archivo [`main.py`](/main.py).
+- Codifica tu solución en el archivo [`lista_factores.py`](/lista_factores.py).
    
 - Utiliza los siguientes ejemplos para dar formato a tus entradas y salidas:
   ```
