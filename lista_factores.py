@@ -1,17 +1,15 @@
 """
-Obtener lista de factores (divisores exactos) de un número.
+Inserta el encabezado aquí y escribe tu código abajo
 """
 
+# Declaraciones
+CONSTANTE = valor
+
 # Entradas
-numero = int(input("Introduzca un número: "))
+entrada = input()
 
 # Proceso
-factores = []
-for factor in range(1, numero + 1):
-    if numero % factor == 0:
-        factores.append(factor)
-factores = [str(i) for i in factores]
-factores = ", ".join(factores)
+
 
 # Salidas
-print(f"Factores: {factores}")
+print(salida)
