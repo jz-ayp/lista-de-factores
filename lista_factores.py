@@ -10,6 +10,8 @@ factores = []
 for factor in range(1, numero + 1):
     if numero % factor == 0:
         factores.append(factor)
+factores = [str(i) for i in factores]
+factores = ", ".join(factores)
 
 # Salidas
-print("Factores:", factores)
+print(f"Factores: {factores}")
