@@ -5,7 +5,7 @@
 ## Instrucciones
 - Elabora el análisis y el algoritmo ***antes de escribir el código***. Utiliza un diagrama de flujo para representar tu algoritmo e ilustrar su lógica.
 
-- **Diseña un programa para generar la lista de todos los factores de un número entero dado**. Por ejemplo, 2 es un factor de 28 porque 2 por 14 da 28. Por el contrario, 3 no es un factor de 28 porque ningún número (entero) multiplicado por 3 da 28.
+- **Diseña un programa para generar la lista de todos los factores de un número entero positivo dado**. Por ejemplo, 2 es un factor de 28 porque 2 por 14 da 28. Por el contrario, 3 no es un factor de 28 porque ningún número (entero) multiplicado por 3 da 28.
 
 - Codifica tu solución en el archivo [`lista_factores.py`](/lista_factores.py).
    
